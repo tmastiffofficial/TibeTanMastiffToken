@@ -26,7 +26,8 @@
     TMF(TMastiff) will start with 1 BNB in liquidity so no whales will be present.
     As more holders buy, you can then increase your buy orders.
     
-    100,000,000,000,000,000 total supply with 40% burnt before launch
+    
+    1,000,000,000,000,000  total supply with 40% burnt before launch
     
     Welcome to TMF(TMastiff).
     
